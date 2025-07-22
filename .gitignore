@@ -6,9 +6,9 @@ raw_book_merged_text.txt
 .venv
 pdf_pages
 prompts_for_raw_chapters
-proper_parts
 properparts_staging
 prompts_for_raw_chapters
 raw_txt_pages
 raw_chapters
 responses_from_deepseek*
+failed_responses
