@@ -95,15 +95,15 @@ Footnote definition (placed at the end of the document or section):
 
 ## Chapter 1 - Introduction
 
-The bustling little town of Roxbury, New York, produced in the year 1836 a man who was to disturb the economic theories of this country, and to die, at the age of fifty-six, the possessor of one of the greatest single American fortunes. The youngest of six children, five of whom were girls, he was ....
+The bustling little town of Roxbury, New York, produced in the year 1836 a man who was to disturb the economic theories of this country, and to die, at the age of fifty-six, the possessor of one of the greatest single American fortunes. The youngest of six children, five of whom were girls, he was[^1] ....
 
 ---
 
 ## Notes for Chapter I
 
-1. J. R. Perkins, *Trails, Rails and War*, 263
-2. *United States Pacific Railway Commission, Testimony*, Executive Document No. 51, Senate, 50th Congress, 1st Session, 1887, 4121, E. H. Nichols.
-3. Isaac Jones Wistar, *Autobiography*, 495, Harper & Bros., New York, 1937.
-4. Burlington archives, J. M. Forbes to .... Simpson, May 29, 1878.
+[^1]: J. R. Perkins, *Trails, Rails and War*, 263
+[^2]: *United States Pacific Railway Commission, Testimony*, Executive Document No. 51, Senate, 50th Congress, 1st Session, 1887, 4121, E. H. Nichols.
+[^3]: Isaac Jones Wistar, *Autobiography*, 495, Harper & Bros., New York, 1937.
+[^4]: Burlington archives, J. M. Forbes to .... Simpson, May 29, 1878.
 
 !!@!@!@!#### END EXAMPLE FOR CHAPTER 1 ####!!@!@!@!

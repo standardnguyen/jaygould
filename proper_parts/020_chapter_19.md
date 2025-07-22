@@ -1,4 +1,4 @@
-## Chapter XIX - Gould Fights the Burlington
+# Chapter XIX - Gould Fights the Burlington
 
 In western as in eastern territory, in the period following the end of 1881, Gould's problems were largely dominated by a single personality. In the East, it was Vanderbilt; in the West, it was Perkins. In the renewal of the contest with Gould, Perkins was no longer a subordinate official. As president of the Burlington, he was the leader of an able group, vigorous, yet cautious; aggressive, yet careful not to extend themselves unduly.
 

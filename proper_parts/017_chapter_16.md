@@ -1,4 +1,4 @@
-## Chapter XVI - Gould Creates Empire—East
+# Chapter XVI - Gould Creates Empire—East
 
 In 1881 Gould reached the height of his business career. He dominated the policies of corporations which controlled more railroad mileage than any other single person or group of persons. By the sale of a block of Union Pacific in February of 1879 he had revolutionized his position. At one stroke he paid his heavy trading losses and acquired a substantial cash balance. How he used these funds in 1879 to acquire the Wabash and the Kansas Pacific and to reacquire dominant control of the Union Pacific has already been described. In the following year at small cost he secured control of the southwestern railroads, and in 1881 he utilized his railroad control to conquer the Western Union. Later in the same year, he climaxed this brilliant three-year period with his mastery of the Manhattan Elevated.
 

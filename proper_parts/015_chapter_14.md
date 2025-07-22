@@ -1,4 +1,4 @@
-## Chapter XIV - Gould Acquires the Western Union
+# Chapter XIV - Gould Acquires the Western Union
 
 To Gould's astute mind, the expansion in the railroad industry inevitably led to expansion in the telegraph industry. Under the Supreme Court ruling, a new railroad was a new telegraph customer. Gould, as the controlling factor in a railroad, could contract with Gould, the controlling factor in the new American Union, for telegraph service to compete and perhaps supplant the Western Union.
 

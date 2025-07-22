@@ -1,4 +1,4 @@
-## Chapter III - Gould Acquires the Erie
+# Chapter III - Gould Acquires the Erie
 
 Elected to the Erie board in October, 1867, Gould seemed to have no important role. To the public, to the railroad managers, and to speculators and investors he was unknown. Although for the previous eight years he had been a stockbroker, he had done little in the financial district to attract public attention. If he had been successful as a stock speculator, that fact could have been known only to his intimate associates. On the Erie he appeared to represent himself only.
 

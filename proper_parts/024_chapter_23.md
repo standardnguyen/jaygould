@@ -1,4 +1,4 @@
-## Chapter XXIII - Gould Monopolizes Western Union
+# Chapter XXIII - Gould Monopolizes Western Union
 
 Gould’s stroke in acquiring the Western Union in 1881, far from being accepted as a masterpiece of corporate strategy, was almost universally regarded as a serious blunder. Besides the chorus of public condemnation of the company as a monopoly and a public oppressor, there was the conviction in financial circles that the new water-logged combination would not be able to pay dividends. In fact, according to many, it would seem that the company was headed for disaster. If it could earn enough to pay a 6 per cent dividend upon an inflated stock base, the telegraph business must be decidedly profitable. New capital would be attracted, competition would increase, and the rate of profit decline.
 

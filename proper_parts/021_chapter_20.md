@@ -1,4 +1,4 @@
-## Chapter XX - Gould Holds in the Southwest
+# Chapter XX - Gould Holds in the Southwest
 
 In less than two years, by acquisition and construction, Gould had established the broad outlines of the through routes between St. Louis and Kansas City gateways and the Rio Grande and Gulf Coast. By connection with the Huntington properties he had also completed the first east-and-west line through Texas and the first transcontinental line south of the Missouri. Except for the El Paso route of the Texas & Pacific, he accomplished this program in less than a twelve-month period. Where railroads in the Missouri Valley had failed to develop a through route to the Rio Grande and the Gulf Coast, Gould had succeeded. Similarly, where Texas roads had failed to develop routes to the Missouri Valley, Gould had also succeeded.
 

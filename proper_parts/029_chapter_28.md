@@ -1,4 +1,4 @@
-## Chapter XXVIII - Gould Stabilizes Rates
+# Chapter XXVIII - Gould Stabilizes Rates
 
 The program of railroad construction outlined in the two previous chapters permanently changed the western railroad equilibrium. The roads east of the Missouri crossed the river, and the roads west of the river crossed to the territory on the east. Gould's southwestern system no longer was the only line which connected Chicago and the Middle West with Texas. The Atchison was a new competitor, and the Rock Island having thrown its lines west across the state of Kansas into Denver, and south to the Kansas-Oklahoma boundary, was another disturbing factor. In the Northwest, the Burlington had invaded southern Minnesota by acquiring a working interest in the affiliated Chicago, Burlington & Northern. The construction of the Canadian Pacific and the provision of through routes over the road and its connections, and the development of railroad-owned steamship lines on the Great Lakes from Duluth were other factors which upset the delicate balance of territorial equality established prior to the events of the middle eighties.
 

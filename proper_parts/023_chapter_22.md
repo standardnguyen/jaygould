@@ -1,4 +1,4 @@
-## Chapter XXII - Gould's Empire Reorganized
+# Chapter XXII - Gould's Empire Reorganized
 
 Of the three major railroads which Gould lost in 1884 and 1885, only two were of importance in the building of his southwestern system. He was not interested in the third, although this, the Union Pacific, appears to have been the most important in 1879-81. It was the prospective traffic which it would turn over to the Wabash that seemed at the time to give the latter such a high value. The Union Pacific, however, discovered that it could do little for the Wabash since its own traffic needs allied its fortunes with the direct Omaha-Chicago lines.
 

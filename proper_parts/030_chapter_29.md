@@ -1,4 +1,4 @@
-## Chapter XXIX - Gould Experiments
+# Chapter XXIX - Gould Experiments
 
 By 1890 Gould's holdings had become well stabilized. He had the controlling interest in three dividend-paying enterprises—the Missouri Pacific, the Manhattan, and the Western Union. The stocks of the latter two were desirable investments. Neither had any substantial competition; the Manhattan in fact had none. In the spring of 1891 the Manhattan bought control of another transit line: the Suburban Rapid Transit Company. Morgan, who represented the interests of the owners of the latter, was so satisfied with the investment caliber of the Manhattan stock that he recommended an exchange of that stock for the Suburban's. The Manhattan, whose control was acquired by Gould at the end of a receivership, was on a 6 per cent dividend basis. Its credit was one of the best and the Morgan firm bid actively for the opportunity of buying its bonds for resale to customers on a low yield basis. Morgan joined the board of directors, and Gould could say with considerable pride that the Manhattan, financially, was one of the best properties in the country.
 

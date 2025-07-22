@@ -1,4 +1,4 @@
-## Chapter VIII - Gould Utilizes the Union Pacific
+# Chapter VIII - Gould Utilizes the Union Pacific
 
 Gould in the spring of 1875 occupied a unique position in the railroad and financial life of the country. For a relatively small price he had secured working control of the eastern part of the transcontinental railroad—the Union Pacific. He had acquired the stock toward the end of the stock-market boom, and despite his heavy paper losses, he was able by judicious trading to maintain his financial position sufficiently to enable him to retain his stock. Unlike Huntington, he did not have the extensive support of banks and of dividends on his stock. Furthermore, the road whose control he held so carefully throughout the panic days had been acquired and lost by three dominant financial groups on the eastern seaboard.
 

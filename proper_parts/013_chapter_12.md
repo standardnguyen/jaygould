@@ -1,4 +1,4 @@
-## Chapter XII - Gould Battles C. E. Perkins
+# Chapter XII - Gould Battles C. E. Perkins
 
 While on the eastern railroad chessboard, Gould encountered the hesitant and shifting personality of Vanderbilt, on the western end he clashed headlong with the sturdy and vigorous leadership of Perkins. While some of Perkins's activities have already been examined in a previous chapter, it is essential at this point to sketch his character more comprehensively against the framework of railroad relationships in which he and Gould acted as main characters in the dramatic corporate and territorial conquests in the years beginning with the railroad boom of 1879.
 

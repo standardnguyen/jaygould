@@ -114,84 +114,82 @@ The Wabash, Erie, Pennsylvania, New York Central, and Delaware & Hudson, will be
 
 ## Table of Contents
 
-**[Preface](#preface)**
+**Preface**
 
-**[Index to Abbreviations of Companies](#index-to-abbreviations-of-companies)**
+**Index to Abbreviations of Companies**
 
-**[Bibliographical Note](#bibliographical-note)**
+**I.** Introduction
 
-**[I. Introduction](#chapter-i---introduction)**
+**II.** The Pre-Gould Erie
 
-**[II. The Pre-Gould Erie](#chapter-ii---the-pre-gould-erie)**
+**III.** Gould Acquires the Erie
 
-**[III. Gould Acquires the Erie](#chapter-iii---gould-acquires-the-erie)**
+**IV.** Gould Expands the Erie
 
-**[IV. Gould Expands the Erie](#chapter-iv---gould-expands-the-erie)**
+**V.** Gould Manages the Erie
 
-**[V. Gould Manages the Erie](#chapter-v---gould-manages-the-erie)**
+**VI.** Gould Leaves the Erie
 
-**[VI. Gould Leaves the Erie](#chapter-vi---gould-leaves-the-erie)**
+**VII.** Gould Acquires the Union Pacific
 
-**[VII. Gould Acquires the Union Pacific](#chapter-vii---gould-acquires-the-union-pacific)**
+**VIII.** Gould Utilizes the Union Pacific
 
-**[VIII. Gould Utilizes the Union Pacific](#chapter-viii---gould-utilizes-the-union-pacific)**
+**IX.** Gould Merges the Union Pacific
 
-**[IX. Gould Merges the Union Pacific](#chapter-ix---gould-merges-the-union-pacific)**
+**X.** Gould Acquires the Wabash
 
-**[X. Gould Acquires the Wabash](#chapter-x---gould-acquires-the-wabash)**
+**XI.** Gould Tempts W. H. Vanderbilt
 
-**[XI. Gould Tempts W. H. Vanderbilt](#chapter-xi---gould-tempts-w.-h.-vanderbilt)**
+**XII.** Gould Battles C. E. Perkins
 
-**[XII. Gould Battles C. E. Perkins](#chapter-xii---gould-battles-c.-e.-perkins)**
+**XIII.** Gould Moves into the Southwest
 
-**[XIII. Gould Moves into the Southwest](#chapter-xiii---gould-moves-into-the-southwest)**
+**XIV.** Gould Acquires the Western Union
 
-**[XIV. Gould Acquires the Western Union](#chapter-xiv---gould-acquires-the-western-union)**
+**XV.** Gould Acquires the Manhattan Elevated
 
-**[XV. Gould Acquires the Manhattan Elevated](#chapter-xv---gould-acquires-the-manhattan-elevated)**
+**XVI.** Gould Creates Empire—East
 
-**[XVI. Gould Creates Empire—East](#chapter-xvi---gould-creates-empire-east)**
+**XVII.** Gould Creates Empire—West
 
-**[XVII. Gould Creates Empire—West](#chapter-xvii---gould-creates-empire-west)**
+**XVIII.** W. H. Vanderbilt Takes the Offensive
 
-**[XVIII. W. H. Vanderbilt Takes the Offensive](#chapter-xviii---w.-h.-vanderbilt-takes-the-offensive)**
+**XIX.** Gould Fights the Burlington
 
-**[XIX. Gould Fights the Burlington](#chapter-xix---gould-fights-the-burlington)**
+**XX.** Gould Holds in the Southwest
 
-**[XX. Gould Holds in the Southwest](#chapter-xx---gould-holds-in-the-southwest)**
+**XXI.** Gould's Empire Crumbles
 
-**[XXI. Gould's Empire Crumbles](#chapter-xxi---goulds-empire-crumbles)**
+**XXII.** Gould's Empire Reorganized
 
-**[XXII. Gould's Empire Reorganized](#chapter-xxii---goulds-empire-reorganized)**
+**XXIII.** Gould Monopolizes Western Union
 
-**[XXIII. Gould Monopolizes Western Union](#chapter-xxiii---gould-monopolizes-western-union)**
+**XXIV.** Gould Trades: To 1884
 
-**[XXIV. Gould Trades: To 1884](#chapter-xxiv---gould-trades-to-1884)**
+**XXV.** Gould Trades: September 1884-1886
 
-**[XXV. Gould Trades: September 1884-1886](#chapter-xxv---gould-trades-september-1884-1886)**
+**XXVI.** Gould Expands in Kansas and Colorado
 
-**[XXVI. Gould Expands in Kansas and Colorado](#chapter-xxvi---gould-expands-in-kansas-and-colorado)**
+**XXVII.** Gould Contracts and Expands in the Southwest
 
-**[XXVII. Gould Contracts and Expands in the Southwest](#chapter-xxvii---gould-contracts-and-expands-in-the-southwest)**
+**XXVIII.** Gould Stabilizes Rates
 
-**[XXVIII. Gould Stabilizes Rates](#chapter-xxviii---gould-stabilizes-rates)**
+**XXIX.** Gould Experiments
 
-**[XXIX. Gould Experiments](#chapter-xxix---gould-experiments)**
+**XXX.** Conclusion
 
-**[XXX. Conclusion](#chapter-xxx---conclusion)**
-
-**[Index](#index)**
+**Index**
 
 ### Maps
 
-- **[Erie Railroad, 1868-1872—Competitors and Connections](#erie-railroad-1868-1872competitors-and-connections)**
-- **[Union Pacific, 1873-1880—Competitors, Connections, and Extensions](#union-pacific-1873-1880competitors-connections-and-extensions)**
-- **[The Wabash (C. E. Perkins and W. H. Vanderbilt), 1879-1881](#the-wabash-c.-e.-perkins-and-w.-h.-vanderbilt-1879-1881)**
-- **[Gould and the Chicago, Burlington & Quincy, 1881-1885](#gould-and-the-chicago-burlington--quincy-1881-1885)**
-- **[Gould's Southwestern System, 1879-1881](#goulds-southwestern-system-1879-1881)**
-- **[Empire East, 1882](#empire-east-1882)**
-- **[Empire West, 1882](#empire-west-1882)**
-- **[Gould and W. H. Vanderbilt, 1882-1885](#gould-and-w.-h.-vanderbilt-1882-1885)**
-- **[Gould in Kansas, Colorado, and the Southwest, 1885-1889](#gould-in-kansas-colorado-and-the-southwest-1885-1889)**
+- Erie Railroad, 1868-1872—Competitors and Connections
+- Union Pacific, 1873-1880—Competitors, Connections, and Extensions
+- The Wabash (C. E. Perkins and W. H. Vanderbilt), 1879-1881
+- Gould and the Chicago, Burlington & Quincy, 1881-1885
+- Gould's Southwestern System, 1879-1881
+- Empire East, 1882
+- Empire West, 1882
+- Gould and W. H. Vanderbilt, 1882-1885
+- Gould in Kansas, Colorado, and the Southwest, 1885-1889
 
 ---

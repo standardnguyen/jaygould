@@ -1,4 +1,4 @@
-## Chapter XI - Gould Tempts W. H. Vanderbilt
+# Chapter XI - Gould Tempts W. H. Vanderbilt
 
 In expanding the Wabash in eastern territory, in carving out new through routes for the movement of traffic via Chicago, Toledo and Detroit, Gould clashed head-on with Vanderbilt—probably the country's wealthiest railroad stockholder. His holdings in 1879 were concentrated largely in the New York Central, the Harlem, and the Lake Shore. In addition he had large commitments in the New Haven, New England (successor of the old Boston, Hartford & Erie), Michigan Central, Canada Southern, and Northwestern.
 

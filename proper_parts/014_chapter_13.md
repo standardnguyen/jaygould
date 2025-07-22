@@ -1,4 +1,4 @@
-## Chapter XIII - Gould Moves into the Southwest
+# Chapter XIII - Gould Moves into the Southwest
 
 Previous chapters have examined Gould's railroad acquisitions in the trans-Missouri area and in the region between the Missouri and the Great Lakes at Chicago and Toledo. In this chapter his activities in the region south of the Missouri to the Gulf of Mexico and west of the Mississippi will be considered. In this broad territory his activities were as unexpected as his acquisitions revolving around the new Wabash through route from Toledo to Omaha. The surprise turned in the next few years, however, to a sensation, when it was discovered that Gould had actually built up a permanent railroad system, and had not bought the securities for trading and speculation. The Gould system of railroads was confined largely to the properties in the Southwest, and embraced southern Missouri, Louisiana west of the Mississippi River, and the states of Arkansas, Texas, and Oklahoma, to which was later added a large mileage in southern Kansas and a small mileage in eastern Colorado.
 

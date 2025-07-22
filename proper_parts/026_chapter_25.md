@@ -1,4 +1,4 @@
-## Chapter XXV - Gould Trades: September 1884-1886
+# Chapter XXV - Gould Trades: September 1884-1886
 
 Gould in the fall of 1884 was again successful as a man of business. Although his prestige as a trader had been impaired by the events of May and June, it was restored by the turn of events in July and August. His position as a man of wealth was dependent upon the maintenance of the market value of his holdings in Missouri Pacific, Western Union, Manhattan, and Union Pacific. While his holdings cannot be determined even with approximate accuracy, it is nevertheless clear that he had not finished his program of liquidation. He had arranged his affairs, paid off some loans, rearranged others, and above all he had escaped insolvency. He was still, however, interested in a rising market—in fact a rising market was essential to enable him to pay his debts and retire from the speculative markets.
 

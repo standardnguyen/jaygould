@@ -1,4 +1,4 @@
-## Chapter XVII - Gould Creates Empire—West
+# Chapter XVII - Gould Creates Empire—West
 
 In the West even more than in the East, many opportunities called for fundamental decisions of policy. This was particularly so in the building of new lines to open up territory rich in raw materials. In the Northwest as well as in the Southwest, the economic future of thousands of communities depended upon rail facilities. Of the promoters and capitalists who supplied this demand, Gould was in many respects the most important. He, as much as any other person in the early eighties, laid down the rails—the symbol at that time of a changing civilization.
 

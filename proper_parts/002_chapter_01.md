@@ -1,4 +1,4 @@
-## Chapter I - Introduction
+# Chapter I - Introduction
 
 The bustling little town of Roxbury, New York, produced in the year 1836 a man who was to disturb the economic theories of this country, and to die, at the age of fifty-six, the possessor of one of the greatest single American fortunes. The youngest of six children, five of whom were girls, he was always soft-spoken, small, and frail. He had one wife, and two daughters, and four sons. There was no whisper of scandal about his private life. Although he loved fine houses, steam yachts, flowers, and formal gardens, he worked twelve, fourteen, sixteen hours a day and had few diversions. How could he have diversions? Once he went to Amsterdam to confer with Dutch bankers and investors. It took him an hour to conclude his business conference; in another hour he was back on his ship, impatient to get home to his family and to more complicated affairs.
 

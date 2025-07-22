@@ -1,4 +1,4 @@
-## Chapter XXX - Conclusion
+# Chapter XXX - Conclusion
 
 In assessing the importance of a business leader, his contribution to the industry and to the public welfare must be considered. This is particularly true in an examination of business success in the free-enterprise economy of the period following the Civil War. Argument is still hot between those who deny and those who defend that system as the best means of affording to the community a high standard of living. Although it is probable that the unregulated capitalistic economy of the nineteenth century has been weakened, there is still no agreement upon the extent to which a regulated economy can exist without destroying the profit motives which make a free-enterprise system possible.
 
@@ -76,18 +76,18 @@ This tabular compilation bristles with hypotheses. Almost every figure can be ch
 
 In these years, characterized by a rapid expansion in the nation's productive plant, thousands of miles of railroads were built by the Gould roads. Few of these properties enjoyed a high credit rating. They therefore had to finance their needs in the speculative markets. Gould was a leader in this field, and hundreds of communities owed their early facilities to his speculative leadership. A substantial portion of the speculative funds employed in the building of new lines came from those who had reaped capital gains from the purchase and sale of Gould securities. The reorganization of the Texas & Pacific in the mid-eighties, for example, disclosed the large number of Pennsylvania citizens who followed the lead of Scott and Gould in the purchase of its securities. Tilden, Marquand, Field, and Sage were heavy buyers of securities sold to finance railroad construction. The volume of Gould railroad mileage built during the first part of the boom of the eighties was by no means inconsiderable. Taking the four-year period of 1879-82, inclusive, as a basis for study, the new mileage built by the Wabash-Kansas & Texas-Missouri Pacific-Iron Mountain-International-Texas & Pacific-and Union Pacific systems (excluding the Lackawanna, where the building of the Buffalo extension was also financed to a great extent by capital of Gould and his following) amounted to 4,231.29 (See Table II). Assuming a cost of $20,000 per mile, probably on the low side in the strong commodity markets in the early eighties, this construction involved an investment of $84,620,000.
 
-### Table II  
-Miles of Road Built by Gould Railroads 1879-1882  
+### Table II
+Miles of Road Built by Gould Railroads 1879-1882
 (Excludes construction in Republic of Mexico)
 
-1. Texas Pacific . 1,010.00  
-2. Union Pacific . 1,249.87  
-3. Wabash . 462.01  
-4. International Great Northern . 256.71  
-5. Missouri Kansas & Texas . 588.2  
-6. Missouri Pacific . 466.5  
-7. St. Louis Iron Mountain & Southern . 198.0  
-Total: 4,231.29  
+1. Texas Pacific . 1,010.00
+2. Union Pacific . 1,249.87
+3. Wabash . 462.01
+4. International Great Northern . 256.71
+5. Missouri Kansas & Texas . 588.2
+6. Missouri Pacific . 466.5
+7. St. Louis Iron Mountain & Southern . 198.0
+Total: 4,231.29
 
 *Note: The mileage of the first three roads is based on letters from these companies. The mileage of the last four is based on data in Poor's Manual of Railroads.*
 

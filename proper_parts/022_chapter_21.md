@@ -1,4 +1,4 @@
-## Chapter XXI - Gould's Empire Crumbles
+# Chapter XXI - Gould's Empire Crumbles
 
 The system which Gould controlled in 1881 extended from Boston to Ogden, Utah. To retain control of all the roads would require sums which were not at his disposal. Control implies the ability to influence corporate policies. A management may have little or no stock in a company, but if the shareholders have confidence in the company's management, they will deliver their proxies to the officials and permit them to determine the destinies of the enterprise. Control, furthermore, is not based on membership on the board of directors. Gould for some years was on the Northwestern, Frisco, and the Rock Island boards. On none of these boards did he accomplish anything useful in behalf of his railroad interests.
 

@@ -1,4 +1,4 @@
-## Chapter IV - Gould Expands the Erie
+# Chapter IV - Gould Expands the Erie
 
 Hardly had railroad men, investors, speculators, and bankers comprehended the stirring events of October and November, than Gould suddenly appeared in a new corner of the business world. Again he did the unexpected, again he appeared as an unsettling factor, again he adopted bold methods to carry out his objectives, and again he stirred up violent opposition to the use of such methods. The three New York and Philadelphia railroad trunk lines to Pittsburgh and Buffalo did not then wholly own or control their western connections. Informal understandings and written traffic contracts regulated the relations between the eastern lines and their western connections. There was little corporate control in the form of stockholdings and interlocking directors. There were four major traffic routes over which business moved between Philadelphia, New York, and the West. A brief sketch of these traffic routes is essential to an understanding of Gould's moves in December, 1868, and in the early months of 1869.
 

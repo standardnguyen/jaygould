@@ -1,4 +1,4 @@
-## Chapter XXVI - Gould Expands in Kansas and Colorado
+# Chapter XXVI - Gould Expands in Kansas and Colorado
 
 The Missouri Pacific in 1884 was confined largely to the state of Missouri. In addition, through stock holdings and lease contracts it controlled an extensive system in Arkansas, Texas, and Oklahoma. It had also preferential arrangements with the Texas & Pacific (commanding outlets to New Orleans and El Paso), and with the Wabash (extending the system to Chicago, Toledo and Detroit). The road had extended little after its first burst of growth in 1880 and 1881. Although it thereafter acquired a number of branch lines and built some feeders in the coal fields of southern Missouri and Kansas, its mileage early in 1885 was not substantially higher than four years before.
 
