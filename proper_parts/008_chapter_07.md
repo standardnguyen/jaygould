@@ -1,4 +1,4 @@
-## Chapter VII - Gould Acquires the Union Pacific
+# Chapter VII - Gould Acquires the Union Pacific
 
 When Gould left the Erie in 1872 he was again a man of wealth. He had lost a fortune in the fall of 1869; he made another in the winter of 1871-72. He was now in funds, and could resume his activities in the business and speculative markets of the day. He was still in the brokerage business with Smith, and with him he engaged in transactions involving the locking up of currency with a view of affecting both the gold and the securities markets. Little is known about Gould's operations in these fields.[^008_1] He could not, however, long remain in action purely as a trader. In that role he was not at his best. He found it essential to operate in the securities of a given company, and by participating in its management to master the details of its business. With such knowledge, he could trade against the general run of traders.
 

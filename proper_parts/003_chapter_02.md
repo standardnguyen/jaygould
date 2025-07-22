@@ -1,4 +1,4 @@
-## Chapter II - The Pre-Gould Erie
+# Chapter II - The Pre-Gould Erie
 
 In October, 1867, Press dispatches carried the news that Jay Gould had been elected a member of the Erie board of directors. Gould was just past thirty-one, unknown in financial and business circles. However, his election was the beginning of a career that for a quarter of a century repeatedly stirred, stormed and shocked the financial and business world.
 

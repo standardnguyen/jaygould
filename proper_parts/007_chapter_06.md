@@ -1,4 +1,4 @@
-## Chapter VI - Gould Leaves the Erie
+# Chapter VI - Gould Leaves the Erie
 
 In May, 1869, Gould was at the peak of his control of the Erie. He had disenfranchised the holders of almost all of the foreign stock, more than half of which was held by residents of England. They had bought the stock and secured title through a blank power of attorney, but Gould by various pretexts had made it impossible for them to cast their ballots. Furthermore, the Classification Act had just been enacted and this assured Gould's group a term of office for at least five years. It was at just about this time that a group of English shareholders, spurred on by the drop in the price of Erie stock, decided to secure a voice in the management of the company equal to their shareholdings.[^007_1] They organized a London protective committee, and arranged to transfer their stocks on the Erie's books in the names of two English citizens, Robert Amadeus Heath and Lewis Raphael. A power of attorney made out in their names was attached to the stock certificates and sent to a New York City banker.
 
