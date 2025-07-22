@@ -113,7 +113,7 @@ class EnhancedDeepSeekProcessor:
 
                     # Add assistant response and new user prompt to continue
                     messages.append({"role": "assistant", "content": content})
-                    messages.append({"role": "user", "content": "Please continue from where you left off."})
+                    messages.append({"role": "user", "content": "Please continue from where you left off. Do not start a new markdown block. Do not say 'certainly! here's a continuation!' I literally just need you to silently continue"})
                 else:
                     # Response is complete
                     if continuation_count > 0:
@@ -276,7 +276,7 @@ async def main():
         )
 
         # Specify which chapters to process
-        chapters_to_process = [2,4,8,17,19,21]
+        chapters_to_process = [4,8,11,12,13,14,17,18,19,21,26,28]
         print(f"🎯 Processing chapters: {chapters_to_process}")
 
         # Process with controlled concurrency to avoid rate limits

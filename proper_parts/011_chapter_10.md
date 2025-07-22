@@ -12,7 +12,7 @@ The Wabash was the only road of those operating east from St. Louis which reache
 
 Despite the rate wars, the Wabash was able by the fall of 1877 to reorganize its property. Although the plan was adopted under the laws of Ohio and the property returned to its stockholders, the title was not entirely clear, and a number of suits tended to obscure its financial future. The price of the stock, therefore, even after the reorganization, dropped to exceptionally low levels. Its physical condition meanwhile was not enviable. Even as late as 1880 the road needed sidings, second track, improved terminals, and additional equipment. Many of its cars were not owned, and were held under car trusts.[^4] The company, furthermore, was manipulating its accounts while awaiting a return to better times. In a public statement issued in March, 1878, for example, it reported earnings for the previous year of over $168,000; yet in a lawsuit a few months later, the treasurer revealed a deficit of over $570,000.[^5]
 
-The road was finally returned to its shareholders in February, 1878. The board of directors included Field, who, like Gould and Sage, was actively interested in stock-market trading. Field was a large holder of cable companies' stocks and of a wide assortment of railroad securities. He was a recognized leader in speculative circles and his following included Tilden, the Democratic candidate for President in 1876. In the dreary days of 1877, when the financial fate of the Wabash hung in the balance, an investigation of the Wabash led to the purchase by Field of a considerable amount of its common stock, some at less than one dollar a share.[^6] This turned out to be an important factor in Gould's acquisition of control of the road in 1879 and 1880.
+The road was finally returned to its shareholders in February, 1878. The board of directors included Field, who, like Gould and Sage, was actively interested in stock-market trading. Field was a large holder of cable companies' stocks and of a wide assortment of railroad securities. He was a recognized leader in speculative circles and his following included Tilden, the Democratic candidate for President in 1876. In the dreary days of 1877, when the financial fate of the Wabash hung in the balance, an investigation of the Wabash led to the purchase by Field of a "considerable amount" of its common stock, some at less than one dollar a share.[^6] This turned out to be an important factor in Gould's acquisition of control of the road in 1879 and 1880.
 
 Field was primarily a stock trader and only incidentally a railroad man. When the price of Wabash stock advanced, Field was a seller, and he sold just at the time when Gould was a ready buyer. The president of the road was James A. Roosevelt, a member of the brokerage and banking community of New York City. The new management did not modify the road's traffic policies.
 
@@ -92,4 +92,51 @@ With this legislation and the new court decisions to sustain him, Gould initiate
 
 At the same time Gould took steps to give the American Union a transatlantic cable service independent of any connection with the Western Union. To expedite matters he arranged for the organization of a French cable company with which, on behalf of the American Union, he made an exclusive and preferential business arrangement.
 
-Nevertheless, the Western Union still refused to take the new movement seriously. The steps so far taken by Gould were indeed only beginners. He had spent most of July in Europe negotiating other transactions and had not yet had the time to divulge his major aims. The Western Union directors on the other hand believed that upon his return from Europe Gould would concern himself with hisHere's the continuation of the formatted chapter:
+Nevertheless, the Western Union still refused to take the new movement seriously. The steps so far taken by Gould were indeed only beginners. He had spent most of July in Europe negotiating other transactions and had not yet had the time to divulge his major aims. The Western Union directors on the other hand believed that upon his return from Europe Gould would concern himself with his railroads, and that the American Union—the "opposition company"[^40]—would soon be broken up.
+
+By midsummer of 1879 Gould's power as a factor in the telegraph industry and as a leading force in the middle-western railroad picture was strong and growing. Through his surprising acquisition of two financially weak but strategically located railroads between Kansas City and Toledo, he had succeeded in wresting notable concessions from the powerful eastern trunk-line pool. He was preparing further blows against one of the most powerful non-railroad enterprises of the day—the Western Union. That concern was represented on its board by strong financial interests: Vanderbilt; Morgan of Drexel, Morgan & Co., one of the leading firms in the railroad and government bond financing field; Taylor, the aged and eminent executive and major owner of the National City Bank; and Edwin D. Morgan, formerly Governor of New York and one of the wealthy and influential men of the time. Against all of these, Gould was about to pit his individual leadership, his comparatively limited resources, and his amazing resourcefulness and ingenuity, financial and trading ability. While he expanded his telegraph enterprise, he flung the Wabash strategic influence into the camp of eastern railroad and financial magnates. By ruthless pressure he extracted concessions that brought him to a position of leadership and influence in the eastern railroad community. He could no longer be ignored in any eastern or middle-western railroad strategy, and neither, for other reasons, could he be ignored in far-western affairs. And only a few months before he had been widely advertised as ready for enforced retirement.
+
+---
+
+## Notes for Chapter X
+
+[^1]: Buffalo Commercial Advertiser, cited in R. R. Gaz., Aug. 13, 1870, 464-5.
+[^2]: R. R. Gaz., June 29, 1872, 273.
+[^3]: Public, Oct. 25, 1877, 265; see also Ry. Review, April 26, 1879, 173.
+[^4]: R. R. Gaz., March 25, 1881, 171.
+[^5]: New York Tribune, June 18, 1878.
+[^6]: This statement was made by Field in State of Massachusetts, General Court, Joint Committee on Claims, New York & New England Railroad second mortgage bond sale. Hearing on the petitions of Cyrus W. Field and others before the Joint Committee on Claims, 1886, hereinafter referred to as the New England Bond Investigation, 522.
+[^7]: Known hereafter as the Kansas City.
+[^8]: Am. R. R. Journal, Jan. 18, 1879, 76.
+[^9]: This account of the expansion program of Garrison is based on the following: New York World, Nov. 22, 1878; Chicago Tribune, Nov. 27, 1878; R. R. Gaz., Nov. 29, 1878, 579.
+[^10]: A New York newspaper, cited in Ry. World, Dec. 28, 1878, 1251.
+[^11]: Public, Nov. 28, 1878, 339. The announcement of the Garrison management served as the occasion for a comprehensive editorial analysis of the Wabash in R. R. Gaz., Nov. 29, 1878, 579.
+[^12]: This statement was made by a local newspaper in the heart of Wabash territory, the Lafayette Journal, cited in R. R. Gaz., Sept. 13, 1878, 452.
+[^13]: Phila. North American, Feb. 27, 1879.
+[^14]: So stated by Field in New England Bond Investigation, 522.
+[^15]: Joy papers, John Newell to Joy, Sept. 8, 1875.
+[^16]: Ry. Review, May 3, 1879, 186; London Railway News, Oct. 11, 1884, 580.
+[^17]: Stockholder, Nov. 18, 1879, 98.
+[^18]: New York Mail, cited in Stockholder, Oct. 2, 1879.
+[^19]: See supra, p. 191.
+[^20]: State of Missouri, Statements and Testimony of Railroad Managers and others before Committee on Railroads and Internal Improvements of the Extra Session of the 34th General Assembly of Missouri, Jefferson City, 1887, 376, W. M. Sage of the Rock Island.
+[^21]: New York Tribune, April 22, 1879.
+[^22]: Ry. Review, May 3, 1879, 187.
+[^23]: In fact the interchange traffic of the Union Pacific was relatively small. In 1880, for example, California freight reaching the trunk lines was about equal to the business of Evansville, Indiana; to one-quarter that of Cleveland; to one-seventh that of Pittsburgh; and to one-fifteenth that of Buffalo. The rail freight received by the trunk lines from Chicago every five days was more than that received from California in the whole year, R. R. Gaz., April 7, 1882, 210.
+[^24]: Memorial of the Merchants' Exchange Freight Committee, cited in Public, Dec. 21, 1876, 393.
+[^25]: New York Tribune, April 29, 1879.
+[^26]: Known hereafter as the Bee Line.
+[^27]: Public, July 31, 1879, 71.
+[^28]: R. R. Gaz., Aug. 1, 1879, 422; see also New York Tribune, July 29, 1879.
+[^29]: This new demand was so astonishing that the well-informed Railroad Gazette refused to believe it. "The story seemed to be of a piece with many others that [had] been widely published recently—that is, without any foundation in fact or reason other than somebody's desire to get certain roads talked about." R. R. Gaz., Aug. 1, 1879, 416.
+[^30]: See for these negotiations New York Tribune, July 25, 1879; July 28, 1879; Public, July 31, 1879, 71.
+[^31]: Pensacola Telegraph Co. vs. Western Union, 96 U.S., 1 (1877).
+[^32]: New York Tribune, April 30, 1879.
+[^33]: Ry. Review, May 10, 1879, 198.
+[^34]: This is the language used in the stock prospectus of the American Union, according to counsel in a suit against the Western Union merger, New York Tribune, Jan. 29, 1881.
+[^35]: Western Union vs. American Union Telegraph, Circuit Court, Indiana District, in Federal Cases, Vol. XXIX, 190-1.
+[^36]: New York Tribune, Aug. 2, 1879; R. R. Gaz., Aug. 8, 1879, 431.
+[^37]: Land-Grant Telegraph Lines, Report No. 3501, House of Representatives, 49th Congress, 2nd Session, 1886, 26, 31, Reiff.
+[^38]: Competing Telegraph Lines, Minutes of a Hearing before the Committee on Railroads, Report No. 805, Senate, 45th Congress, 3rd Session, 1879, 16-7, G. P. Lowrey.
+[^39]: R. R. Gaz., Sept. 19, 1879, 503. In Philadelphia, clashes with local municipal authorities accompanied the competitive struggle of the American Union against the Western Union, according to the Philadelphia Times, Aug. 20, 1879.
+[^40]: New York Tribune, Aug. 8, 1879.

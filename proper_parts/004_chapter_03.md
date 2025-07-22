@@ -125,8 +125,7 @@ There was little doubt, however, that the public statement made by Gould in Dece
 [^10]: The steps taken to comply apparently with the injunction in letter, although violating it in spirit, has been described in great detail in a notable contribution by Charles F. Adams Jr. and Henry Adams, "A Chapter of Erie" in Chapters of Erie, and Other Essays. This story is based largely on testimony in the contempt proceedings before Judge Barnard. See, especially, the testimony as reproduced in New York Herald, April 23, 1868; May 1, 1868.
 [^11]: New York Herald, March 19, 1868.
 [^12]: This was the intrinsic value of Erie according to William Worthington Fowler: Ten Years of Wall Street, 501.
-[^13]: Trenton Gazette, cited in New York Herald, March 31Here's the continuation of the formatted markdown with the remaining footnotes for Chapter III:
-
+[^13]: Trenton Gazette, cited in New York Herald, March 31
 [^14]: A reporter for a leading New York newspaper wrote from Albany that the adverse report of the House Committee on Railroads on this bill was a "bright redeeming feature in the stupidly monotonous and forcedly virtuous career of the present session." See New York Herald, March 28, 1868.
 [^15]: Supreme Court, County of Delaware, Joseph H. Ramsey against Jay Gould, et al., Complaint 24.
 [^16]: Complaint of Erie in suit against Gould for damages, cited in R. R. Gaz., July 16, 1872.

@@ -32,7 +32,7 @@ Everything was now arranged for the grand climax. Gould, convinced that the path
 
 The other steps necessary to complete the reorganization, said the secretary, would be taken as rapidly as circumstances permitted. The other steps were soon revealed. The senior bondholders—those holding first and second mortgages on the main system line, from Kansas City to St. Louis, and from St. Louis to Chicago and to Toledo—had not participated in the reorganization proceedings. Perhaps they believed that they were not involved in any plans which called for reduction in principal or interest on the part of the junior security holders. They were soon disillusioned. Within less than a month the purchasing committee requested them to make their contribution to the cause. They were asked to reduce their interest rate to 5 per cent and to exchange their overdue coupons for new bonds.
 
-This proposal was submitted in a pamphlet issued by the purchasing committee in which for the first time the traffic realities of the Wabash system were officially presented. The competitive situation of the Wabash was described as critical. The road served a territory which was crossed by every eastern trunk line. "All roads from Chicago to the seaboard, except the Michigan Central," declared the committee, "cross it. All roads from that city southwest, south and southeast cross it, and they radiate from Chicago like the sticks of a fan.... There is no point on its lines not subject to competition as intense as competition can be. There are parallel roads on all sides, and roads crossing it at all points."[^13]
+This proposal was submitted in a pamphlet issued by the purchasing committee in which for the first time the traffic realities of the Wabash system were officially presented. The competitive situation of the Wabash was described as critical. The road served a territory which was crossed by every eastern trunk line. "All roads from Chicago to the seaboard, except the Michigan Central," declared the committee, "cross it. All roads from that city southwest, south and southeast cross it, and they radiate from Chicago like the sticks of a fan. . . . There is no point on its lines not subject to competition as intense as competition can be. There are parallel roads on all sides, and roads crossing it at all points."[^13]
 
 The security holders now knew the worst. Gould, in the hour of desperation, flooded their minds with gloom even as five years before, in the hour of triumph, he had flooded their minds with cheer. They were told, furthermore, that the floating debt had increased about 100 per cent in the two years since the beginning of the receivership. This large debt, according to the committee, had a lien on the property superior to that of the first and second mortgage bondholders.
 
@@ -98,4 +98,61 @@ The Wistar proposal, as the first in the field, acquired all those strategic adv
 
 This plan, representing the views of the weakest of the system bondholders, made only a slight impression. Another, however, submitted some weeks thereafter by a committee headed by Robert Fleming, and representing security holders of all divisions, met with a different reception. This plan was designed to remove the basis of Gould's strong position in the reorganization by buying up the bonds of the middle division. With the help of a strong underwriting syndicate, including Drexel, Morgan & Company, it proposed to buy these bonds at a price close to par. With the bonds out of the way, Wistar and his group would have little to say in formulating the plans of reorganization. This plan "somewhat staggered" the Wistar committee,[^38] and probably also staggered Gould himself. If it were successful it would place the reorganization in the hands of a man who, it was clear to Gould, was no friend of his. The dominating force in the house of Drexel, Morgan & Company, at least in the field of railroad financing, was Morgan, the man who, in carrying out in such a masterful manner the reorganization of the West Shore, had ignored Gould's suggestions.
 
-After weeks of discussion, Wistar found the basis for a common interest with this group. The two committees shook hands, merged their interests, and produced a new plan. The new committee consisted of four representatives from the Wistar and three from the Fleming group. The essentials of the Wistar plan, calling for a reduction in fixed charges as had been originally proposed, were retained. The stock to be outstanding under the newHere's the continuation of the formatted chapter:
+After weeks of discussion, Wistar found the basis for a common interest with this group. The two committees shook hands, merged their interests, and produced a new plan. The new committee consisted of four representatives from the Wistar and three from the Fleming group. The essentials of the Wistar plan, calling for a reduction in fixed charges as had been originally proposed, were retained. The stock to outstanding under the new compromise plan, however, was increased from $32,000,000 to $40,000,000. The proposal of Gould to utilize the floating debt of the Missouri Pacific as a means of getting control of the property was dropped. An assessment on the shareholders of $10 a share in exchange for a second mortgage bond with a market value of about fifty cents on the dollar was also suggested. The floating debt was paid in cash. Of the stock, the Missouri Pacific received the right to buy approximately $6,500,000 at $20 a share.
+
+The plan did not meet with success. The income and land-grant mortgage bondholders organized a committee, and asserted that in addition to their third mortgage lien on the eastern division they also had a claim on other parts of the property. The stockholders also submitted a plan which, however, made little impression. The land-grant bondholders created considerable difficulty. It was necessary to make concessions to induce them to approve the plan, thus delaying its final consummation. After making adjustments essential to harmonize the minority, the fixed charges were reduced to $1,287,000—a substantial reduction.[^39]
+
+Since the Missouri Pacific was not given the right to acquire large blocks of stock, it was clear that Gould had not succeeded in acquiring control of the reorganized company. He was, nevertheless, free, if he so chose, to buy stock in the open market. Early in 1886 the stock fluctuated, in the heavy trading, between $7 and $15 a share. Gould bought large blocks at these levels although of course he did not advertise his activities. Early in 1888, when the company was about to reorganize its affairs, it was believed in some informed quarters that the company would be independent of Gould.[^40] These views were mistaken. Gould, at the annual meeting, was elected chairman of the executive committee. At that time he announced that with the stock he personally owned, he and his group would control the new road.
+
+It was not until October of 1888 that the road was released from receivership, and it was not until the spring of 1889 that the new directorate was reorganized in accordance with the stockholdings of the controlling interests. It was only then that the strategic position of Gould was fully revealed. At the annual meeting he personally voted 84,000 shares, and 189,000 by proxy, including those of Sage and the Missouri Pacific.[^41] Since there were 400,000 shares outstanding, these two blocks gave Gould control.
+
+The reorganization of both the Texas & Pacific and the Wabash were completed at about the same time. Gould had succeeded in rebuilding his railroad system in its essential parts. In 1884-85 his unified system from Toledo to El Paso and from St. Louis to New Orleans seemed about to crumble. Four years later it was again reunited. By that time, however, profound changes had occurred in other parts of the system. The Missouri Pacific proper had transformed itself from a small compact property into a far-flung network reaching through southern and central Kansas to Denver, and comprising many extensions and branches in Arkansas, Texas, and Louisiana. On the other hand, the system had lost the Kansas & Texas—a line connecting western Kansas with northern Texas. In the late eighties, Gould was making a strong effort to reacquire the road. In this effort, made with the same patience, the same technique, and the same persistence that had characterized his efforts to acquire control of the Wabash and of the Texas & Pacific, he was about to fail.[^42]
+
+Aside from his trading operations, Gould had lost little in the receivership and subsequent reorganization of the two southwestern roads. He had sold out both his Texas & Pacific and Wabash stocks at the top of the boom in 1880 and 1881. He had bought back large blocks of Wabash after the price had dropped substantially, at what appeared to be reasonable prices. They turned out, nevertheless, to be high prices, and at his death his holdings showed heavy paper losses. He rebought the Texas & Pacific stock at much more attractive prices. In both cases he succeeded well, as a railroad man and as a financier. He reorganized the properties in such a way as to reduce their fixed charges and to give him control over their policies. As a trader in the purchase of stocks at low prices, he was, however, unsuccessful.
+
+---
+
+## Notes for Chapter XXII
+
+[^1]: This plan is summarized in *Chron.*, Aug. 22, 1884, 117.
+[^2]: *Bradstreet*, Aug. 2, 1884, 72.
+[^3]: *London Standard*, cited in *Herapath's Ry. Journal*, Aug. 30, 1884, 970.
+[^4]: *Ibid.*, April 18, 1885, 411.
+[^5]: Burlington archives, Perkins to W. W. Baldwin, Dec. 9, 1884.
+[^6]: For summary of this decision, see *Bradstreet*, May 2, 1885, 301. The case is reported in *Federal Reporter* Vol. 23, 866, 1885.
+[^7]: *New York Herald*, Feb. 18, 1885.
+[^8]: *Chron.*, May 9, 1885, 571.
+[^9]: *Ibid.*
+[^10]: *Bradstreet*, May 9, 1885, 317.
+[^11]: *Phila. Press*, Nov. 30, 1885.
+[^12]: *Ry. World*, May 1, 1886, 409.
+[^13]: From Circular of the Committee, cited in *Chron.*, June 5, 1886, 695.
+[^14]: *New York Tribune*, June 7, 1886.
+[^15]: For the views of Judge Gresham on receivership, see *Ry. Review*, March 13, 1886, 124.
+[^16]: The instructions of Judge Gresham to the receivers are noted in *Ry. Review*, Aug. 7, 1886, 414.
+[^17]: *London Railway News*, July 24, 1886, 132.
+[^18]: *Atkins vs. Wabash*, *Federal Reporter* Vol. 29, 168, 1886.
+[^19]: *Bradstreet*, Dec. 11, 1886, 377.
+[^20]: *New York Tribune*, Dec. 8, 1886.
+[^21]: *Ry. Review*, Jan. 15, 1887, 35.
+[^22]: The decision of Judge Brewer is reported in *Federal Reporter* Vol. 30, 333, 1887.
+[^23]: In the summer of 1889, after the organization of the new Wabash, Gould, according to the *New York Times*, May 16, 1889, owned "enormous blocks" of Wabash stock; and, according to *Stockholder*, June 21, 1889, he held approximately 25 per cent of the common stock of the road, at a cost to him of about double the then existing market price. Although he was probably the largest stockholder, the majority of the stock, nevertheless, was still held in England. *New York Times*, Aug. 13, 1890.
+[^24]: For details on this plan, see *Chron.*, Oct. 29, 1887, 573.
+[^25]: *New York Tribune*, Feb. 5, 1889.
+[^26]: For details on the proposal of the minority bondholders, see *Phila. Press*, April 20, 1889.
+[^27]: *Chron.*, May 18, 1889, 663.
+[^28]: *London Railway News*, July 24, 1886, 132.
+[^29]: This is the phrase used by I. J. Wistar, Chairman, Texas & Pacific Railway Reconstruction Committee to the Committee of London Bondholders, as cited in the *New York Tribune*, June 29, 1886.
+[^30]: *Phila. Press*, June 4, 1886.
+[^31]: *Autobiography of Isaac Jones Wistar*, 492-4, Harper and Brothers, New York, 1937.
+[^32]: *Phila. Press*, March 6, 1886.
+[^33]: *Chron.*, Jan. 9, 1886, 61.
+[^34]: *Autobiography of Isaac Jones Wistar*, 492-3.
+[^35]: The exact amount of floating debt is differently stated in different sources. The amount of $1,800,000 is presented by *Chron.* which has a record for accuracy in these matters. The *Phila. Press*, which reported minutely on the progress of the plan, puts the floating debt at $1,500,000; and a circular of the committee of the Rio Grande Division bondholders at $1,600,000. See *Bradstreet*, June 12, 1886, 403.
+[^36]: *Chron.*, May 1, 1886, 550.
+[^37]: *Bradstreet*, June 12, 1886, 403.
+[^38]: *Ibid.*, July 31, 1886, 74.
+[^39]: *Chron.*, Dec. 17, 1887, 821.
+[^40]: See *Phila. Press*, April 13, 1888.
+[^41]: *Ibid.*, March 19, 1889.
+[^42]: For details, see Chapter XXVII, pp. 543-6.

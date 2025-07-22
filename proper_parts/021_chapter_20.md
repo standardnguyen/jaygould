@@ -28,7 +28,7 @@ If Huntington by acquiring the Houston upset Gould's plans on one part of his sy
 
 For a time Gould thought of expanding into the Southeast. The most convenient stepping stone would be Memphis, Tennessee. Gould's Iron Mountain skirted the city some miles to the west but did not reach it. A small independent east-west property, the Memphis & Little Rock, connected the Iron Mountain with Memphis. Gould's program to bring that line into his southwestern system produced a sensational succession of lawsuits.
 
-The Memphis & Little Rock had long competed with the Iron Mountain, and rate wars had sapped the earnings of both properties.[^7] Gould decided to get control and to eliminate this competition. In conjunction with Sage, and also with Marquand, his new southwestern associate, he bought over 90 per cent of the stock, for which he paid a high price. The bonds of the reorganized road carried an interest rate beginning July 1, 1882, of 8 per cent. This interest rate, thought Gould, was too high. He cast about for ways and means to accomplish a reduction, and thus make his stock more valuable. He soon devised a plan. The state of Arkansas in March, 1882, had secured a judgment against the road on an old claim. The first mortgage bondholders paid the judgment and secured an assignment of the claim. They then applied for the appointment of a receiver and, had they been successful, the stock for which Gould had paid a good price would have lost most of its value. Gould was prepared. Before receivership proceedings became effective the road confessed judgment on a small note to Sage. The bondholders had never heard of the note, judgment having been confessed only fours days after the note was given. The Gould clique got in first, and the court appointed a receiver friendly to it and unfriendly to the bondholders.
+The Memphis & Little Rock had long competed with the Iron Mountain, and rate wars had sapped the earnings of both properties.[^7] Gould decided to get control and to eliminate this competition. In conjunction with Sage, and also with Marquand, his new southwestern associate, he bought over 90 per cent of the stock, for which he paid a high price. The bonds of the reorganized road carried an interest rate beginning July 1, 1882, of 8 per cent. This interest rate, thought Gould, was too high. He cast about for ways and means to accomplish a reduction, and thus make his stock more valuable. He soon devised a plan. The state of Arkansas in March, 1882, had secured a judgment against the road on an old claim. The first mortgage bondholders paid the judgment and secured an assignment of the claim. They then applied for the appointment of a receiver and, had they been successful, the stock for which Gould had paid a good price would have lost most of its value. Gould was prepared. Before receivership proceedings became effective the road confessed judgment on a small note to Sage. The bondholders had never heard of the note, judgment having been confessed only four days after the note was given. The Gould clique got in first, and the court appointed a receiver friendly to it and unfriendly to the bondholders.
 
 Gould then made a bold stroke. He entered suit challenging the validity of the mortgage and asked the court to annul the bonds. He questioned the right of a corporation which had purchased a property to mortgage the very property acquired in order to obtain the purchase price. If the mortgage was invalid and the corporation had no equitable title to the property, it would appear to follow that it should return the property to its creditors. This, however, Gould on behalf of the company refused to do.
 
@@ -103,33 +103,34 @@ Despite all these critical problems and the rate wars of 1884, Gould held his so
 
 [^1]: Known hereafter as the Houston.
 [^2]: Known hereafter as the Gulf.
-[^3]: *Chicago Times*, May 24, 1882.
+[^3]: Chicago Times, May 24, 1882.
 [^4]: Burlington archives. Potter to A. E. Touzalin, May 18, 1882.
 [^5]: Ibid.
-[^6]: Some details on the rise in Southern Pacific traffic are given in *Ry. Review*, May 16, 1882, 254, citing a compilation of a Pacific Coast journal.
-[^7]: See, for example, *Public*, July 27, 1877, 57.
-[^8]: *R. R. Gaz.*, Feb. 15, 1884, 138.
-[^9]: The story of this transaction may be followed in *ibid.*, various issues between 1882 and 1887; see also *New York Tribune*, June 29, 1882; April 14, 1884; April 15, 1884; *New York Times*, Feb. 12, 1884; Feb. 17, 1884.
+[^6]: Some details on the rise in Southern Pacific traffic are given in Ry. Review, May 16, 1882, 254, citing a compilation of a Pacific Coast journal.
+[^7]: See, for example, Public, July 27, 1877, 57.
+[^8]: R. R. Gaz., Feb. 15, 1884, 138.
+[^9]: The story of this transaction may be followed in ibid., various issues between 1882 and 1887; see also New York Tribune, June 29, 1882; April 14, 1884; April 15, 1884; New York Times, Feb. 12, 1884; Feb. 17, 1884.
 [^10]: Statement of the Receiver, Texas & Pacific, before the Subcommittee on Labor Troubles in the South and West, Report No. 4174, House of Representatives, 49th Congress, 2nd Session, May 5, 1886, Part 2, 185.
-[^11]: The report of the investigating committee is in *Chron.*, Sept. 1, 1888, 257-60.
-[^12]: *New York Times*, April 26, 1885.
+[^11]: The report of the investigating committee is in Chion., Sept. 1, 1888, 257-60.
+[^12]: New York Times, April 26, 1885.
 [^13]: This point is made in Henry Clews's Weekly Financial Circular, July 15, 1886. This circular was issued by a banking firm which in its clients' interests closely followed the activities of Gould's southwestern roads.
-[^14]: *Chron.*, March 24, 1888, 371.
-[^15]: *Ry. World*, Oct. 15, 1887, 998.
-[^16]: *Phila. Press*, June 4, 1886.
-[^17]: *Ibid.*, March 9, 1885, from its New York correspondent who credits these remarks to a passenger.
-[^18]: This statement was made by Wheeler H. Peckham, counsel for Union Trust Company, according to the *New York Times*, Sept. 27, 1888; and *New York Tribune*, Sept. 27, 1888.
-[^19]: S. G. Reed, *A History of Texas Railroads*, 355; St. Clair Publishing, Houston, 1941.
-[^20]: *Chron.*, June 7, 1884, 680.
-[^21]: *Phila. North American*, June 6, 1884.
-[^22]: *London Economist*, Jan. 31, 1885, 133.
-[^23]: *Phila. Press*, Nov. 19, 1884.
-[^24]: On the development of these plans between June 1884 and March 1885, see *Chron.*, June 7, 1884, 680; July 26, 1884, 97; Nov. 29, 1884, 607; *Bradstreet*, March 7, 1885, 151; *Ry. World*, March 7, 1885, 224.
-[^25]: *R. R. Gaz.*, Nov. 28, 1884, 860; Dec. 19, 1884, 908.
-[^26]: *Chron.*, Sept. 1, 1888, 257.
+[^14]: Chron., March 24, 1888, 371.
+[^15]: Ry. World, Oct. 15, 1887, 998.
+[^16]: Phila. Press, June 4, 1886.
+[^17]: Ibid., March 9, 1885, from its New York correspondent who credits these remarks to a passenger.
+[^18]: This statement was made by Wheeler H. Peckham, counsel for Union Trust Company, according to the New York Times, Sept. 27, 1888; and New York Tribune, Sept. 27, 1888.
+[^19]: S. G. Reed, A History of Texas Railroads, 355; St. Clair Publishing, Houston, 1941.
+[^20]: Chron., June 7, 1884, 680.
+[^21]: Phila. North American, June 6, 1884.
+[^22]: London Economist, Jan. 31, 1885, 133.
+[^23]: Phila. Press, Nov. 19, 1884.
+[^24]: On the development of these plans between June 1884 and March 1885, see Chron., June 7, 1884, 680; July 26, 1884, 97; Nov. 29, 1884, 607; Bradstreet, March 7, 1885, 151; Ry. World, March 7, 1885, 224.
+[^25]: R. R. Gaz., Nov. 28, 1884, 860; Dec. 19, 1884, 908.
+[^26]: Chron., Sept. 1, 1888, 257.
 [^27]: For details see Chap. XXVII, pp. 538-41.
-[^28]: *Phila. Press*, May 18, 1883.
-[^29]: *R. R. Gaz.*, Dec. 1, 1882, 744; *New York Times*, Jan. 20, 1884, declared that it was a "fact well known" . . . that Gould had endorsed Wabash paper for a long period.
-[^30]: *Phila. Press*, Oct. 30, 1882.
-[^31]: Good accounts of the issue of these bonds are found in *Bradstreet*, April 21, 1883, 248; April 28, 1883, 264.
-[^32]: *R. R. Gaz.*, April 27, 1883, Here's the continuation of the properly formatted markdown chapter, completing the remaining content:
+[^28]: Phila. Press, May 18, 1883.
+[^29]: R. R. Gaz., Dec. 1, 1882, 744; New York Times, Jan. 20, 1884, declared that it was a "fact well known" . . . that Gould had endorsed Wabash paper for a long period.
+[^30]: Phila. Press, Oct. 30, 1882.
+[^31]: Good accounts of the issue of these bonds are found in Bradstreet, April 21, 1883, 248; April 28, 1883, 264.
+[^32]: R. R. Gaz., April 27, 1883, 274.
+[^33]: See Chapter XXI, pp. 414-7.

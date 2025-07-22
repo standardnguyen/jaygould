@@ -1,4 +1,4 @@
-# Chapter VII - Gould Acquires the Union Pacific
+## Chapter VII - Gould Acquires the Union Pacific
 
 When Gould left the Erie in 1872 he was again a man of wealth. He had lost a fortune in the fall of 1869; he made another in the winter of 1871-72. He was now in funds, and could resume his activities in the business and speculative markets of the day. He was still in the brokerage business with Smith, and with him he engaged in transactions involving the locking up of currency with a view of affecting both the gold and the securities markets. Little is known about Gould's operations in these fields.[^1] He could not, however, long remain in action purely as a trader. In that role he was not at his best. He found it essential to operate in the securities of a given company, and by participating in its management to master the details of its business. With such knowledge, he could trade against the general run of traders.
 
@@ -18,7 +18,7 @@ This system, which corresponded to the realities of the time, was denounced by t
 
 Of these overcapitalized companies the public spotlight in the early seventies was concentrated upon the Union Pacific. Oakes Ames had used political pressure in the halls of Congress, and a Congressional investigation had followed. The crude attempts to influence legislation by distribution of stock created a storm of excitement. Investor confidence was impaired and the price of the Union Pacific stock dropped. The Union Pacific furthermore was not living up to informed expectation. The increased traffic that was generally expected to follow the completion of the transcontinental route had not materialized.
 
-The financial difficulties of the road in 1871 gave capitalists, not formerly connected with the management, the opportunity to acquire control. Aside from local groups there were at this time three major financial interests. Gould, as president of the Erie, had made an unsuccessful bid to set up a fourth group. A New York party was built around the aged Cornelius Vanderbilt, who was now through his individual stockholdings in control of the New York Central-Lake Shore route from New York City to Chicago. A second, which had already made its mark in the business life of the country, was known loosely as the Boston group and included such men as James F. Joy, John M. Forbes, and the Ameses. They had financed many middle-western railroads, including the Michigan Central, the Hannibal and the Burlington. The third group hailing from Philadelphia was loosely described as the Pennsylvania Railroad party. The bid made by Gould early in 1869 to wrest control of the Pennsylvania's western allies had invigorated the expansionist elements in the Pennsylvania management, and as the year 1871 drew to close, the road completed a vast expansion program from Chicago and the Mississippi River to New York City. In the central transcontinental area Scott, its vice president, was also a member of the board of the Kansas Pacific which controlled the line from Kansas City to Denver. That road had also an important local traffic, and by 1870 had become a leading cattle-carrier. Although Scott did not control the Kansas Pacific, he did, as a director, represent an important Philadelphia stockholding interest. Only a link between the Kansas City and St. Louis was needed to give the Pennsylvania a line extending from Denver to New York City.
+The financial difficulties of the road in 1871 gave capitalists, not formerly connected with the management, the opportunity to acquire control. Aside from local groups there were at this time three major financial interests. Gould, as president of the Erie, had made an unsuccessful bid to set up a fourth group. A New York party was built around the aged Cornelius Vanderbilt, who was now through his individual stockholdings in control of the New York Central-Lake Shore route from New York City to Chicago. A second, which had already made its mark in the business life of the country, was known loosely as the Boston group and included such men as James F. Joy, John M. Forbes, and the Ameses. They had financed many middle-western railroads, including the Michigan Central, the Hannibal and the Burlington. The third group hailing from Philadelphia was loosely described as the Pennsylvania Railroad party. The bid made by Gould early in 1869 to wrest control of the Pennsylvania's western allies had invigorated the expansionist elements in the Pennsylvania management, and as the year 1871 drew to a close, the road completed a vast expansion program from Chicago and the Mississippi River to New York City. In the central transcontinental area Scott, its vice president, was also a member of the board of the Kansas Pacific which controlled the line from Kansas City to Denver. That road had also an important local traffic, and by 1870 had become a leading cattle-carrier. Although Scott did not control the Kansas Pacific, he did, as a director, represent an important Philadelphia stockholding interest. Only a link between the Kansas City and St. Louis was needed to give the Pennsylvania a line extending from Denver to New York City.
 
 In 1871 the Pennsylvania group succeeded in taking control of the Union Pacific. Scott, together with George M. Pullman, and Andrew Carnegie, at that time a leading manufacturer of railroad supplies, became a member of the board. Scott's election as president was considered by some as a turning point in railroad history, one of the best-informed railroad journals of the day observing that in consequence of this step the Pennsylvania Railroad would "be likely to control all the transcontinental traffic for many years to come."[^6]
 
@@ -106,4 +106,76 @@ The sponsorship of the Union Pacific soon brought about results. By a new arrang
 
 By the end of April the hopeful predictions, combined with the favorable contracts (some of which on close analysis seemed flatly to contradict each other) produced a rise in prices. The Union Pacific moved from a trifle more than 40 to almost 80, and the Pacific Mail from the lower 30s to slightly more than 43. On July 1, the Union Pacific declared its first dividend of 1½ per cent quarterly which was increased to 2 per cent on October 1.
 
-The Union Pacific, both in volume and in price appreciation, overshadowed the market. The stocks of Union Pacific and of the Pacific Mail combined frequently accounted for more than 50 per cent of the transactions in all stocks on the Stock Exchange.Here's the continuation of the formatted chapter:
+The Union Pacific, both in volume and in price appreciation, overshadowed the market. The stocks of Union Pacific and of the Pacific Mail combined frequently accounted for more than 50 per cent of the transactions in all stocks on the Stock Exchange. Gould by the early summer of 1875 had established his position as a force in railroad and speculative activities. Since his original association with the Union Pacific, the price of the stock had more than quintupled. From a low of 14 in 1873, it had in less than two years advanced to almost 80.
+
+Traders and investors alike profited from Gould's leadership. The Pacific Mail, "just hovering on the verge of bankruptcy, according to its own published statements, at the touch of [Gould's] magical wand, suddenly [began] to participate in the success of its recent competitor (Union Pacific) . . . ," observed a conservative railroad journal, accustomed to weighing its words carefully. The primacy of Gould, as the leader of the class of businessmen whose operations are closely associated with their stock-market activities, was now established. "The truth is," said the same commentator, "that one man holds almost undisputed sway over the movements of the Stock Exchange. . . . No such example of one-man power has ever been known in Wall Street. . . . Under these extraordinary circumstances, to write of the New York Stock Market is simply to describe the movements of Jay Gould."[^33]
+
+---
+
+## Notes for Chapter VII
+
+[^1]: See *Financier*, April 13, 1872, 294; April 20, 1872, 311; Sept. 21, 1872, 217; and *Chicago Tribune*, Sept. 25, 1872, for some details on the operations of Smith and Gould.
+
+[^2]: See Chapter VI, pp. 105-6.
+
+[^3]: *Dictionary of American Biography*, Vol. XVI, 292.
+
+[^4]: This is the statement of Gould in a letter read at the Pacific Mail board meeting in December 1874. *New York Tribune*, Dec. 4, 1874.
+
+[^5]: *Transportation Interests of the United States and Canada*, Report No. 847. Senate, 51st Congress, 1st Session, 1890, 150.
+
+[^6]: *R. R. Gaz.*, Feb. 11, 1871, 467.
+
+[^7]: *United States Pacific Railway Commission, Testimony*, Executive Document No. 51, Senate, 50th Congress, 1st Session, 1887, 446, Gould.
+
+[^8]: Annual reports of the road, cited in *Phila. Press* by a contributor, Dec. 8, 1873.
+
+[^9]: *Chron.*, Oct. 19, 1872, 523-4.
+
+[^10]: *American Railroad Manual*, 1874, 185.
+
+[^11]: *New York Tribune*, April 28, 1873.
+
+[^12]: This is the opinion expressed in *Bradstreet*, Sept. 17, 1881, 179.
+
+[^13]: Murat Halstead and J. Frank Beale, Jr.: *Life of Jay Gould*, 82, Edgewood Publishing, Philadelphia, 1892.
+
+[^14]: *United States Pacific Railway Commission, Testimony*, Executive Document No. 51, Senate, 50th Congress, 1st Session, 1887, 446-7, Gould.
+
+[^15]: *Credit Mobilier and Union Pacific*, Report No. 78, House of Representatives, 42nd Congress, 3rd Session, 1873, 416, Clark.
+
+[^16]: *New York Tribune*, June 5, 1876.
+
+[^17]: *R. R. Gaz.*, Nov. 2, 1872, 477.
+
+[^18]: *Ry. Monitor*, Aug. 15, 1874, 217.
+
+[^19]: New York correspondent of the *Boston Bulletin*, cited in *Stockholder*, Aug. 25, 1874, 593.
+
+[^20]: *Phila. North American*, Sept. 14, 1874.
+
+[^21]: *R. R. Gaz.*, Oct. 10, 1874, 398.
+
+[^22]: *New York Tribune*, May 6, 1874.
+
+[^23]: This is the word used by Gould in a letter to his two broker representatives on the Pacific Mail board which was read at a special meeting of the board late in November of 1874. An account of this meeting is found in the *New York Tribune*, Dec. 4, 1874. Huntington stated flatly that Gould was largely short of Pacific Mail. He added, "I thought at one time I would sell short but did not; and I shall not. . . ." (Huntington to Leland Stanford, Nov. 28, 1874, M. M.).
+
+[^24]: Letter of Jay Gould (not addressed but evidently to E. H. Rollins, treasurer of Union Pacific) Aug. 28, 1874, in Union Pacific Historical Museum.
+
+[^25]: *New York Tribune*, Sept. 22, 1874.
+
+[^26]: *Ibid.*, Nov. 9, 1874.
+
+[^27]: This is the estimate made in the *Report of the Government Directors, Union Pacific*, for 1875, Executive Document No. 127, House of Representatives, 44th Congress, 1st Session, 1876, 7.
+
+[^28]: *Chron.*, Feb. 27, 1875, 202.
+
+[^29]: For details on rate increases, see *Chicago Tribune*, March 30, 1875, *Ry. World*, Feb. 12, 1876, 102, statement of T. A. Scott.
+
+[^30]: *Phila. North American*, March 5, 1875.
+
+[^31]: *The Road*, March 15, 1875, 56.
+
+[^32]: *Ry. World*, March 27, 1875, 193.
+
+[^33]: *Ibid.*, July 17, 1875, 449.
