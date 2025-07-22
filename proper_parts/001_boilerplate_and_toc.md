@@ -25,8 +25,8 @@ American Book-Stratford Press, Inc., New York
 - Funding: Kahle/Austin Foundation
 - Source: https://archive.org/details/jaygould0000unse
 
-**EPUB Conversion:**
-- Converted by Esthie Standard Duong
+**EPUB Conversion and Typesetting:**
+- Esthie Standard Duong
 - ordoliberal.org
 - 2025
 
