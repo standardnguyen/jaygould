@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <dc:title>Jay Gould: His Business Career 1867-1892</dc:title>
-  <dc:creator id="author">Julius Grodinsky</dc:creator>
-  <dc:publisher>University of Pennsylvania Press</dc:publisher>
+  <dc:creator id="author">Grodinsky, Julius, 1896-</dc:creator>
+  <dc:publisher>University of Pennsylvania Press, Philadelphia</dc:publisher>
   <dc:date>1957</dc:date>
   <dc:language>en</dc:language>
-  <dc:description>An examination of the policies of a businessman in the field of speculative or equity capital in the free enterprise era between the Civil War and the Theodore Roosevelt Administration.</dc:description>
+  <dc:description>An examination of the policies of a businessman in the field of speculative or equity capital in the free enterprise era between the Civil War and the Theodore Roosevelt Administration. Digital edition converted from Internet Archive scan.</dc:description>
   <dc:subject>Biography</dc:subject>
   <dc:subject>Business History</dc:subject>
   <dc:subject>Railroad History</dc:subject>
   <dc:subject>American History</dc:subject>
   <dc:rights>© 1957 by The Trustees of the University of Pennsylvania</dc:rights>
+
+  <!-- Digital edition contributors -->
+  <dc:contributor id="digitizer">Internet Archive</dc:contributor>
+  <dc:contributor id="converter">Esthie Standard Duong</dc:contributor>
+
+  <!-- Source information -->
+  <dc:source>https://archive.org/details/jaygould0000unse</dc:source>
+
+  <!-- Additional metadata for digital edition -->
+  <meta property="dcterms:modified">2025-07-21</meta>
+  <meta name="digitization-sponsor">Kahle/Austin Foundation</meta>
+  <meta name="digitization-date">2019</meta>
+  <meta name="conversion-note">EPUB converted from Internet Archive digitization by Esthie Standard Duong, ordoliberal.org</meta>
 </metadata>

@@ -18,6 +18,25 @@ American Book-Stratford Press, Inc., New York
 
 ---
 
+## Digital Edition
+
+**Digitization:**
+- Digitized by the Internet Archive, 2019
+- Funding: Kahle/Austin Foundation
+- Source: https://archive.org/details/jaygould0000unse
+
+**EPUB Conversion:**
+- Converted by Esthie Standard Duong
+- ordoliberal.org
+- 2025
+
+*Dedicated to everyone except Krishan A. Patel of Irvine, California and the People of Windsor, Colorado*
+
+---
+---
+
+## JAY GOULD: His Business Career 1867-1892
+
 *To My Mimi*
 
 ---
@@ -54,8 +73,8 @@ Philadelphia
 | Chicago & Northwestern | Northwestern |
 | Chicago, Rock Island & Pacific | Rock Island |
 | Chicago, St. Paul & Kansas City | Stickney Road |
-| Columbus, Chicago & Indiana Central | |
-| Cleveland, Cincinnati, Chicago & Indiana Central Indianapolis | Bee Line |
+| Columbus, Chicago & Indiana Central | Indiana Central |
+| Cleveland, Cincinnati, Chicago & Indianapolis | Bee Line |
 | Delaware, Lackawanna & Western | Lackawanna |
 | Denver & Rio Grande | Denver |
 | Denver, South Park & Pacific | South Park |
@@ -63,6 +82,33 @@ Philadelphia
 | Hannibal & St. Joseph | Hannibal |
 | Houston & Texas Central | Houston |
 | International Great Northern | International |
+| Kansas City, St. Joseph & Council Bluffs | Council Bluffs |
+| Lake Shore & Michigan Southern | Lake Shore |
+| Manhattan Elevated | Manhattan |
+| Metropolitan Elevated | Metropolitan |
+| Michigan Southern & Northern Indiana | Michigan Southern |
+| Missouri, Iowa & Nebraska | Iowa |
+| Missouri, Kansas & Texas | Kansas & Texas |
+| Mutual Union Telegraph | Mutual Union |
+| New York, Chicago & St. Louis | Nickel Plate |
+| New York Elevated | New York |
+| New York & Harlem | Harlem |
+| New York & New England | New England |
+| New York, New Haven & Hartford | New Haven |
+| Pacific Mail Steamship | Pacific Mail |
+| Philadelphia & Reading | Reading |
+| Philadelphia, Wilmington & Baltimore | Wilmington |
+| Pittsburgh, Fort Wayne & Chicago | Fort Wayne |
+| Postal Telegraph | Postal |
+| Quincy, Missouri & Pacific | Quincy |
+| St. Louis, Fort Scott & Wichita | Wichita |
+| St. Louis, Iron Mountain & Southern | Iron Mountain |
+| St. Louis, Kansas City & Northern | Kansas City |
+| St. Louis & San Francisco | Frisco |
+| Toledo, Peoria & Warsaw | Peoria |
+| Western Union Telegraph | Western Union |
+
+The Wabash, Erie, Pennsylvania, New York Central, and Delaware & Hudson, will be used at all times to identify these properties. The names of these railroads changed from time to time; but they were sufficiently well known by these names to justify their use.
 
 ---
 

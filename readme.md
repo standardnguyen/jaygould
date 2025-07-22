@@ -7,3 +7,5 @@ pandoc -o jay-gould-biography.epub \
   --file-scope \
   --standalone \
   $(ls proper_parts/???_*.md | sort -V)
+
+https://en.wikipedia.org/wiki/File:Mr._Jay_Gould.jpg
