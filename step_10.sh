@@ -42,6 +42,7 @@ EOF
 
 pandoc -o jay-gould-biography.epub \
   --epub-metadata=metadata.opf \
+  --metadata title="Jay Gould: His Business Career 1867-1892" \
   --epub-cover-image=images/cover.png \
   --toc --toc-depth=2 \
   --split-level=1 \
