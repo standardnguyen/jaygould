@@ -78,6 +78,7 @@ EOF
 pandoc -o jay-gould-biography.epub \
   --metadata-file=metadata.yaml \
   --epub-cover-image=images/cover.png \
+  --css=custom.css \
   --toc --toc-depth=2 \
   --split-level=1 \
   --standalone \
